@@ -1,3 +1,5 @@
+# Hello! 👋
+
 ### About Me
 
 🔭 I’m currently a student studying Electrical Engineering  
