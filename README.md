@@ -2,7 +2,7 @@
 
 ### About Me
 
-🔭 I’m currently a student studying Electrical Engineering  
-🌱 I’m currently learning Robotics and PCB design  
-💬 Ask me about board games, Factorio, or robotics  
+🔭 I’m currently a Senior studying Electrical Engineering  
+🌱 Currently I'm learning PCB design and Hardware Design
+💬 Ask me about Factorio, board games, or robotics  
 😄 Pronouns: He / Him  
